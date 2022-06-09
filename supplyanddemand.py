@@ -1,4 +1,4 @@
-
+'''SIMPLE SUPPLY & DEMAND PLOTTING'''
 import matplotlib.pyplot as plt
 
 import numpy as np
